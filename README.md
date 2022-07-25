@@ -33,4 +33,3 @@
 + **H. Do, <ins>D. Choi</ins>, T. Kim, H. Choi "Digital Video Watermarking based on Histogram and Temporal Modulation and Robust to Camcorder Recording," IEEE International Symposium on Signal Processing and Information Technology, 2008.**
 + **<ins>D. Choi</ins>, H.-K. Jung, H. Choi, T. Kim "Digital Audio Watermarking using Moment-Preserving Thresholding," Mathematics of Data/Image Pattern Recognition, Compression, Coding, and Encryption X, with Applications, 2007.** 
 
-![](https://komarev.com/ghpvc/?username=d1024choi&color=green)
