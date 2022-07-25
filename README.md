@@ -6,7 +6,7 @@
 
 ## Career
 + **Samsung Electronics (Feb. 2014 ~ Jan. 2017)**
-+ **Electronics and Telecommunications Research Institute (ETRI) (Jan. 2017 ~ Now)**
++ **Electronics and Telecommunications Research Institute (ETRI) (Feb. 2017 ~ Now)**
 
 ## Education
 + **Ph.D., Electrical and Computer Engineering, Seoul National Univ. (Feb. 2014)**
