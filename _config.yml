@@ -1,12 +1,4 @@
 theme: jekyll-theme-slate
 title: Dooseop Choi
 description: Senior Researcher, Artificial Intelligence Research Lab., ETRI
-
-teaser                   : "/images/test_img.png"
-
-# Analytics
-analytics:
-  provider               : false # 구글 어날리틱스 등록 false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+teaser: "/images/test_img.png"
