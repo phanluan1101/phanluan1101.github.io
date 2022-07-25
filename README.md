@@ -1,3 +1,9 @@
+## Research Interests
++ **Motion Forecasting & Planning**
++ **Autonomous Driving**
++ **Machine Learning**
++ **Computer Vision**
+
 ## Career
 + **Samsung Electronics (Feb. 2014 ~ Jan. 2017)**
 + **Electronics and Telecommunications Research Institute (ETRI) (Jan. 2017 ~ Now)**
