@@ -14,8 +14,8 @@
 + **B.S., Electronics Engineering, Korea Univ. (Feb. 2006)**
 
 ## Contact
-+ **e-mail: d1024.choi@etri.re.kr**
-+ **git: https://github.com/d1024choi**
++ **E-mail: d1024.choi@etri.re.kr**
++ **Git: https://github.com/d1024choi**
 
 ## Publications
 + **<ins>D. Choi</ins>, K. Min, "Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting," to be appeared at ECCV22.** [Arxiv](https://arxiv.org/abs/2207.04624), [Code](https://github.com/d1024choi/HLSTrajForecast)
