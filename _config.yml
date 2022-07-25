@@ -1,11 +1,11 @@
 theme: jekyll-theme-slate
 title: Dooseop Choi
 description: Senior Researcher, Artificial Intelligence Research Lab., ETRI
-teaser: "/images/test_img.png"
+#teaser: "/images/test_img.png"
 
 # Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/devinlife"
+#footer:
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/devinlife"
