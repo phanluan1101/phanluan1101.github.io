@@ -20,7 +20,7 @@
 ## Publications
 \* corresponding author
 
-+ **<ins>D. Choi</ins>, K. Min, "Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting," to be appeared at ECCV22.** [Arxiv](https://arxiv.org/abs/2207.04624), [Code](https://github.com/d1024choi/HLSTrajForecast)
++ **<ins>D. Choi</ins>\*, K. Min, "Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting," to be appeared at ECCV22.** [Arxiv](https://arxiv.org/abs/2207.04624), [Code](https://github.com/d1024choi/HLSTrajForecast)
 + **<ins>D. Choi</ins>, S.-J. Han, K. Min, J. Choi, "PathGAN: Local Path Planning with Attentive Generative Adversarial Networks," to be appeared at ETRI Journal.**[Code](https://github.com/d1024choi/pathgan_pytorch)
 + **<ins>D. Choi</ins>, K. Min, J. Choi, "Regularising Neural Networks for Future Trajectory Prediction via Inverse Reinforcement Learning Framework," IET Computer Vision, 2020.** [Arxiv](https://arxiv.org/abs/1907.04525), [Code](https://github.com/d1024choi/traj-pred-irl)
 + **K. Min, S.-J. Han, D.-J. Lee, <ins>D. Choi</ins>, K.-B. Sung, J. Choi, "SAE Level 3 Autonomous Driving Technology of the ETRI," ICTC 2019.**
