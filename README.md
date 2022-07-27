@@ -15,7 +15,6 @@
 
 ## Contact
 + **E-mail: d1024.choi@etri.re.kr**
-+ **Git: https://github.com/d1024choi**
 
 ## Publications
 \* corresponding author
