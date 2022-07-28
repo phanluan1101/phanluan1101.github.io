@@ -5,7 +5,7 @@
 + **Computer Vision**
 
 ## Career
-+ **Samsung Electronics (Feb. 2014 ~ Jan. 2017)**
++ **Samsung Electronics (Mar. 2014 ~ Jan. 2017)**
 + **Electronics and Telecommunications Research Institute (ETRI) (Feb. 2017 ~ Now)**
 
 ## Education
