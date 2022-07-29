@@ -47,3 +47,5 @@
 
 + **<ins>D. Choi</ins>, H.-K. Jung, H. Choi, T. Kim "Digital Audio Watermarking using Moment-Preserving Thresholding," Proc. SPIE 6700, Mathematics of Data/Image Pattern Recognition, Compression, Coding, and Encryption X, with Applications, 2007.** 
 
+## Academic Services
++ **Reviewer/Emergency Reviewer: ICMLA2018, ECCV2022**
