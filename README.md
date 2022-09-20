@@ -27,7 +27,7 @@
 
 + **[Conf.] K. Min, S.-J. Han, D.-J. Lee, <ins>D. Choi</ins>, K.-B. Sung, J. Choi, "SAE Level 3 Autonomous Driving Technology of the ETRI," ICTC 2019.**
 
-+ **[Conf.] <ins>D. Choi</ins>\*, T.-H. An, K. Ahn, J. Choi "Future Trajectory Prediction via RNN and Maximum Margin Inverse Reinforcement Learning," ICMLA 2018.** [Code](https://github.com/d1024choi/trajpred_mmirl)
++ **[Conf.] <ins>D. Choi</ins>\*, T.-H. An, K. Ahn, J. Choi "Future Trajectory Prediction via RNN and Maximum Margin Inverse Reinforcement Learning," ICMLA 2018.** [Paper](https://www.researchgate.net/publication/330238721_Future_Trajectory_Prediction_via_RNN_and_Maximum_Margin_Inverse_Reinforcement_Learning), [Code](https://github.com/d1024choi/trajpred_mmirl)
 
 + **<ins>D. Choi</ins>\*, T.-H. An, K. Ahn, J. Choi "Driving Experience Transfer Method for End-to-End Control of Self-Driving Cars," ArXiv, 2018.** [Arxiv](https://arxiv.org/abs/1809.01822)
 
