@@ -5,8 +5,8 @@
 + **Computer Vision**
 
 ## Career
-+ **Samsung Electronics (Mar. 2014 ~ Jan. 2017)**
-+ **Electronics and Telecommunications Research Institute (ETRI) (Feb. 2017 ~ Now)**
++ **Senior Engineer, Samsung Electronics (Mar. 2014 ~ Jan. 2017)**
++ **Senior Researcher, Electronics and Telecommunications Research Institute (ETRI) (Feb. 2017 ~ Now)**
 
 ## Education
 + **Ph.D., Electrical and Computer Engineering, Seoul National Univ. (Feb. 2014)**
