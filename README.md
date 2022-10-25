@@ -19,7 +19,7 @@
 ## Publications
 \* corresponding author
 
-+ **[Conf.] <ins>D. Choi</ins>\*, K. Min, "Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting," to be appeared at ECCV22.** [Arxiv](https://arxiv.org/abs/2207.04624), [Code](https://github.com/d1024choi/HLSTrajForecast)
++ **[Conf.] <ins>D. Choi</ins>\*, K. Min, "Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting," ECCV22.** [Arxiv](https://arxiv.org/abs/2207.04624), [Code](https://github.com/d1024choi/HLSTrajForecast)
 
 + **[Jour.] <ins>D. Choi</ins>\*, S.-J. Han, K. Min, J. Choi, "PathGAN: Local Path Planning with Attentive Generative Adversarial Networks," ETRI Journal, 2022.** [Paper](https://www.researchgate.net/publication/363604723_PathGAN_Local_path_planning_with_attentive_generative_adversarial_networks), [Code](https://github.com/d1024choi/pathgan_pytorch)
 
