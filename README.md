@@ -7,6 +7,7 @@
 ## Career
 + **Senior Engineer, Samsung Electronics (Mar. 2014 ~ Jan. 2017)**
 + **Senior Researcher, Electronics and Telecommunications Research Institute (ETRI) (Feb. 2017 ~ Now)**
++ **Assistant Professor, University of Science and Technology (UST) (Mar. 2023 ~ Now)**
 
 ## Education
 + **Ph.D., Electrical and Computer Engineering, Seoul National Univ. (Feb. 2014)**
