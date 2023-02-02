@@ -22,8 +22,8 @@ I am looking to recruit Master/PhD students in 2023. If you are interested in ou
 
 ## Submissions
 
-+ **[Intl. Jour.] D. Choi\*, S.-J. Han, K. Min, J. Choi, "PathGAN: Local Path Planning with Attentive Generative Adversarial Networks," ETRI Journal, 2022.** [Paper](https://www.researchgate.net/publication/363604723_PathGAN_Local_path_planning_with_attentive_generative_adversarial_networks), [Code](https://github.com/d1024choi/pathgan_pytorch)
-
++ **[Intl. Jour.] T. An, J, Kang, <ins>D. Choi<ins>, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," Submitted to ETRI Journal**
+  
 ## Publications
 \* corresponding author
 
