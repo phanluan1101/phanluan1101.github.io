@@ -1,9 +1,3 @@
-## Research Interests
-+ **Motion Forecasting & Planning**
-+ **Autonomous Driving**
-+ **Machine Learning**
-+ **Computer Vision**
-
 ## Career
 + **Senior Engineer, Samsung Electronics (Mar. 2014 ~ Jan. 2017)**
 + **Senior Researcher, Electronics and Telecommunications Research Institute (ETRI) (Feb. 2017 ~ Now)**
@@ -13,6 +7,12 @@
 + **Ph.D., Electrical and Computer Engineering, Seoul National Univ. (Feb. 2014)**
 + **M.S., Electrical and Computer Engineering, Seoul National Univ. (Feb. 2008)**
 + **B.S., Electronics Engineering, Korea Univ. (Feb. 2006)**
+
+## Research Interests
++ **Motion Forecasting & Planning**
++ **Autonomous Driving**
++ **Machine Learning**
++ **Computer Vision**
 
 ## Contact
 + **E-mail: d1024.choi@etri.re.kr**
