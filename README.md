@@ -8,6 +8,7 @@
 + **M.S., Electrical and Computer Engineering, Seoul National Univ. (Feb. 2008)**
 + **B.S., Electronics Engineering, Korea Univ. (Feb. 2006)**
 
+
 ## Research Interests
 + **Motion Forecasting & Planning**
 + **Autonomous Driving**
