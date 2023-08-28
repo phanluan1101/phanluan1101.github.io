@@ -1,3 +1,6 @@
+## Introduction
+A Senior Student at HCMC University of Technology and Education (HCMUTE) majoring Automotive Engineering Technology.
+
 ## Education
 + **B.S., Automotive Engineering Technonogy, Ho Chi Minh City University of Technology and Education**
 
