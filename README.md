@@ -6,8 +6,8 @@ A Senior Student at HCMC University of Technology and Education (HCMUTE) majorin
 
 
 ## Research Interests
-+ **Object Detection and Tracking**
 + **Autonomous Driving**
++ **Smart Traffic**
 + **Machine Learning**
 + **Computer Vision**
 + **Robotics and Robot Vision**
