@@ -10,7 +10,7 @@ A Senior Student at HCMC University of Technology and Education (HCMUTE) majorin
 + **Smart Traffic**
 + **Machine Learning**
 + **Computer Vision**
-+ **Robotics and Robot Vision**
++ **Digital Signal Processing**
 
 ## Contact
 + **E-mail: hpnq.work@outlook.com**
