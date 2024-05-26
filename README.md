@@ -1,21 +1,47 @@
+# Quan Ha
+
 ## Introduction
-Quan Ha received B. Eng Degree in Automotive Engineering Technology from Ho Chi Minh City University of Technology and Education, Ho Chi Minh City, Vietnam, in 2023. He is currently pursuing Master's Degree in Electronic Engineering at Soongsil University, Seoul, Korea. His research interests include Embedded System Design, Autonomous Vehicle and Vehicle Perception Engineering.
+Quan Ha received a B.Eng. Degree in Automotive Engineering Technology from Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam, in 2023. He is currently pursuing a Master's Degree in Electronic Engineering at Soongsil University, Seoul, Korea. His research interests include Embedded System Design, Autonomous Vehicle, and Vehicle Perception Engineering.
 
 ## Education
-+ B.Eng., Automotive Engineering Technonogy, Ho Chi Minh City University of Technology and Education
+- **B.Eng., Automotive Engineering Technology**  
+  University of Technology and Education (HCMUTE), Ho Chi Minh City, Vietnam (2019 - 2023)
+- **MSc., Electronic Engineering**  
+  Soongsil University, Seoul City, Korea (2024 - Present)
 
+## Professional Experiences
+
+### DPEE Lab, Department of Physics and Electronic Engineering, University of Science (HCMUS), Ho Chi Minh City, Vietnam
+- **Research Collaborator**  ( *June 2022 - March 2024* )
+
+### UTE-AI Lab, Faculty of Electrical and Electronic Engineering, University of Technology and Education (HCMUTE), Ho Chi Minh City, Vietnam
+- **Research Student**  (*March 2022 - March 2024*)
+
+### SoC Software Department, Renesas Electronics, Ho Chi Minh City, Vietnam
+- **Software Design Intern**  (*October 2022 - April 2023*)
+
+### Embedded Software Department, Ban Vien Corporation, Ho Chi Minh City, Vietnam
+- **Embedded Engineer**  (*August 2023 - January 2024*)
+
+### Advanced Network Design and Analysis (ANDA) Lab, Soongsil University, Seoul City, Korea
+- **Research Assistant**  (*March 2024 - Present*)
 
 ## Research Interests
-+ Autonomous Driving
-+ Smart Traffic
-+ Machine Learning
-+ Computer Vision
-+ Robotics
+- Autonomous Driving
+- Smart Traffic
+- Machine Learning
+- Computer Vision
+- Robotics
 
-## Contact
-+ E-mail: <hpnq.work@outlook.com> / <quanhpn@soongsil.ac.kr>
-  
 ## Publications
-+ Ngoc-Luan Tran, **<ins>Ngoc-Quan Ha-Phan</ins>**, Thien-Luan Phan, Congo Tak Shing Ching, Minh-Khue Ha, , "Design and Implementation of a Cost-Effective, Portable Impedance Analyzer Device with AD5941," IEEJ Transactions on Electrical and Electronic Engineering (TEEE). (IF=1)
-+ **<ins>N-Q. Ha-Phan</ins>**, T-N. Truong, V-H. Tran, C-C. Huang, , "A Reliable Feature-Based Framework for Vehicle Tracking in Advanced Driver Assistance Systems," 2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) (APSIPA ASC 2023). <https://dx.doi.org/10.1109/APSIPAASC58517.2023.10317503>
-+ Ha, Minh-Khue, Thien-Luan Phan, Duc Hoang Ha Nguyen, Nguyen Hoang Quan, **<ins>Ngoc-Quan Ha-Phan</ins>**, Congo Tak Shing Ching, and Nguyen Van Hieu. 2023. "Comparative Analysis of Audio Processing Techniques on Doppler Radar Signature of Human Walking Motion Using CNN Models" Sensors 23, no. 21: 8743. <https://doi.org/10.3390/s23218743> (IF=3.9)
+
+### Journal Papers
+&nbsp;&nbsp;2024:
+- Ngoc-Luan Tran, **Ngoc-Quan Ha-Phan**, Thien-Luan Phan, Congo Tak Shing Ching, Minh-Khue Ha, "Design and Implementation of a Cost-Effective, Portable Impedance Analyzer Device with AD5941," IEEJ Transactions on Electrical and Electronic Engineering (TEEE). (IF=1). [DOI](https://doi.org/10.1002/tee.24134)
+
+&nbsp;&nbsp;2023: 
+- Ha, Minh-Khue, Thien-Luan Phan, Duc Hoang Ha Nguyen, Nguyen Hoang Quan, **Ngoc-Quan Ha-Phan**, Congo Tak Shing Ching, and Nguyen Van Hieu. 2023. "Comparative Analysis of Audio Processing Techniques on Doppler Radar Signature of Human Walking Motion Using CNN Models" Sensors 23, no. 21: 8743. [DOI](https://doi.org/10.3390/s23218743) (IF=3.9)
+
+### Conference Papers
+&nbsp;&nbsp;2023:
+- **N-Q. Ha-Phan**, T-N. Truong, V-H. Tran, C-C. Huang, "A Reliable Feature-Based Framework for Vehicle Tracking in Advanced Driver Assistance Systems," 2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) (APSIPA ASC 2023). [DOI](https://dx.doi.org/10.1109/APSIPAASC58517.2023.10317503)
