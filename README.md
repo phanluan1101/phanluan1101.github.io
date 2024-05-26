@@ -16,10 +16,10 @@ Quan Ha received a B.Eng. Degree in Automotive Engineering Technology from Ho Ch
 - **Research Student** at UTE-AI Lab   ( *March 2022 - March 2024* )
 
 ### Renesas Electronics, Ho Chi Minh City, Vietnam
-- **Software Design Intern**   ( *October 2022 - April 2023* )
+- **Software Design Intern** at SoC Software Department  ( *October 2022 - April 2023* )
 
 ### Ban Vien Corporation, Ho Chi Minh City, Vietnam
-- **Embedded Engineer** at SoC Software Department   ( *August 2023 - January 2024* )
+- **Embedded Engineer** at Embedded Software Department   ( *August 2023 - January 2024* )
 
 ### Soongsil University, Seoul City, Korea
 - **Research Assistant** at ANDA Lab   ( *March 2024 - Present* ) 
