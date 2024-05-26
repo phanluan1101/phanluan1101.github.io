@@ -17,6 +17,10 @@ Ngoc-Quan Ha-Phan received a B.Eng. Degree in Automotive Engineering Technology 
 
 ## Professional Experiences
 
+
+- **Research Assistant** at ANDA Lab     
+Soongsil University, Seoul City, Korea ( *March 2024 - Present* ) 
+
 - **Research Collaborator** at DPEE Lab   
 University of Science (HCMUS), Ho Chi Minh City, Vietnam ( *June 2022 - March 2024* )
 
@@ -29,8 +33,6 @@ Renesas Electronics, Ho Chi Minh City, Vietnam ( *October 2022 - April 2023* )
 - **Embedded Engineer** at Embedded Software Department   
 Ban Vien Corporation, Ho Chi Minh City, Vietnam ( *August 2023 - January 2024* )
 
-- **Research Assistant** at ANDA Lab     
-Soongsil University, Seoul City, Korea ( *March 2024 - Present* ) 
 
 ## Link
 + [Google Scholar](https://scholar.google.com/citations?user=PaftlVgAAAAJ&hl=en)
