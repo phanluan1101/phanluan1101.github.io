@@ -1,5 +1,5 @@
 ## Introduction
-Quan Ha received a B.Eng. Degree in Automotive Engineering Technology from Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam, in 2023. He is currently pursuing a Master's Degree in Electronic Engineering at Soongsil University, Seoul, Korea. His research interests include Embedded System Design, Autonomous Vehicle, and Vehicle Perception Engineering.
+Ngoc-Quan Ha-Phan received a B.Eng. Degree in Automotive Engineering Technology from Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam, in 2023. He is currently pursuing a Master's Degree in Electronic Engineering at Soongsil University, Seoul, Korea. His research interests include Embedded System Design, Autonomous Vehicle, and Vehicle Perception Engineering.
 
 ## Research Interests
 - Autonomous Driving
@@ -7,6 +7,7 @@ Quan Ha received a B.Eng. Degree in Automotive Engineering Technology from Ho Ch
 - Machine Learning
 - Computer Vision
 - Robotics
+- Embedded System
 
 ## Education
 - **B.Eng., Automotive Engineering Technology**  
@@ -31,6 +32,13 @@ Ban Vien Corporation, Ho Chi Minh City, Vietnam ( *August 2023 - January 2024* )
 - **Research Assistant** at ANDA Lab     
 Soongsil University, Seoul City, Korea ( *March 2024 - Present* ) 
 
+## Link
++ [Google Scholar](https://scholar.google.com/citations?user=PaftlVgAAAAJ&hl=en)
++ [ORCID](https://orcid.org/0009-0007-7357-1823)
++ [Linkedin](https://www.linkedin.com/in/hphnngcquan/)
+
+## Contact
+Email: <hpnq.work@outlook.com> / <quanhpn@soongsil.ac.kr>
 
 ## Publications
 
