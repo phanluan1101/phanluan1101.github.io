@@ -1,5 +1,3 @@
-# Quan Ha
-
 ## Introduction
 Quan Ha received a B.Eng. Degree in Automotive Engineering Technology from Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam, in 2023. He is currently pursuing a Master's Degree in Electronic Engineering at Soongsil University, Seoul, Korea. His research interests include Embedded System Design, Autonomous Vehicle, and Vehicle Perception Engineering.
 
@@ -11,20 +9,20 @@ Quan Ha received a B.Eng. Degree in Automotive Engineering Technology from Ho Ch
 
 ## Professional Experiences
 
-### DPEE Lab, Department of Physics and Electronic Engineering, University of Science (HCMUS), Ho Chi Minh City, Vietnam
-- **Research Collaborator**  ( *June 2022 - March 2024* )
+### University of Science (HCMUS), Ho Chi Minh City, Vietnam
+- **Research Collaborator** at DPEE Lab   ( *June 2022 - March 2024* )
 
-### UTE-AI Lab, Faculty of Electrical and Electronic Engineering, University of Technology and Education (HCMUTE), Ho Chi Minh City, Vietnam
-- **Research Student**  (*March 2022 - March 2024*)
+### University of Technology and Education (HCMUTE), Ho Chi Minh City, Vietnam
+- **Research Student** at UTE-AI Lab   ( *March 2022 - March 2024* )
 
-### SoC Software Department, Renesas Electronics, Ho Chi Minh City, Vietnam
-- **Software Design Intern**  (*October 2022 - April 2023*)
+### Renesas Electronics, Ho Chi Minh City, Vietnam
+- **Software Design Intern**   ( *October 2022 - April 2023* )
 
-### Embedded Software Department, Ban Vien Corporation, Ho Chi Minh City, Vietnam
-- **Embedded Engineer**  (*August 2023 - January 2024*)
+### Ban Vien Corporation, Ho Chi Minh City, Vietnam
+- **Embedded Engineer** at SoC Software Department   ( *August 2023 - January 2024* )
 
-### Advanced Network Design and Analysis (ANDA) Lab, Soongsil University, Seoul City, Korea
-- **Research Assistant**  (*March 2024 - Present*)
+### Soongsil University, Seoul City, Korea
+- **Research Assistant** at ANDA Lab   ( *March 2024 - Present* ) 
 
 ## Research Interests
 - Autonomous Driving
