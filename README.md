@@ -10,10 +10,11 @@ Ngoc-Quan Ha-Phan received a B.Eng. Degree in Automotive Engineering Technology 
 - Embedded System
 
 ## Education
-- **B.Eng., Automotive Engineering Technology**  
-  University of Technology and Education (HCMUTE), Ho Chi Minh City, Vietnam (2019 - 2023)
 - **MSc., Electronic Engineering**  
   Soongsil University, Seoul City, Korea (2024 - Present)
+
+- **B.Eng., Automotive Engineering Technology**  
+  University of Technology and Education (HCMUTE), Ho Chi Minh City, Vietnam (2019 - 2023)
 
 ## Professional Experiences
 
