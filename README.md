@@ -39,7 +39,7 @@ Soongsil University, Seoul City, Korea ( *March 2024 - Present* )
 - Ngoc-Luan Tran, **Ngoc-Quan Ha-Phan**, Thien-Luan Phan, Congo Tak Shing Ching, Minh-Khue Ha, "Design and Implementation of a Cost-Effective, Portable Impedance Analyzer Device with AD5941," IEEJ Transactions on Electrical and Electronic Engineering (TEEE). (IF=1). [DOI](https://doi.org/10.1002/tee.24134)
 
 &nbsp;&nbsp;*2023*: 
-- Ha, Minh-Khue, Thien-Luan Phan, Duc Hoang Ha Nguyen, Nguyen Hoang Quan, **Ngoc-Quan Ha-Phan**, Congo Tak Shing Ching, and Nguyen Van Hieu. 2023. "Comparative Analysis of Audio Processing Techniques on Doppler Radar Signature of Human Walking Motion Using CNN Models" Sensors 23, no. 21: 8743. [DOI](https://doi.org/10.3390/s23218743) (IF=3.9)
+- Ha, Minh-Khue, Thien-Luan Phan, Duc Hoang Ha Nguyen, Nguyen Hoang Quan, **Ngoc-Quan Ha-Phan**, Congo Tak Shing Ching, and Nguyen Van Hieu. 2023. "Comparative Analysis of Audio Processing Techniques on Doppler Radar Signature of Human Walking Motion Using CNN Models" Sensors 23, no. 21: 8743. (IF=3.9). [DOI](https://doi.org/10.3390/s23218743)
 
 ### Conference Papers
 &nbsp;&nbsp;*2023*:
